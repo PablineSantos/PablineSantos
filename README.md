@@ -14,5 +14,8 @@
 <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 ### 📊 Estatísticas
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PablineSantos&theme=github_dark)
+## 📊 Estatísticas
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PablineSantos&theme=github_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PablineSantos&theme=github_dark)
