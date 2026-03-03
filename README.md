@@ -12,7 +12,7 @@
 <code><img height="40" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 <code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="40" alt="sap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg"></code>
+<code><img height="40" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg"></code>
 
 ### 📊 Estatísticas
 <p>
