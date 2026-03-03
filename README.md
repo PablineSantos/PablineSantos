@@ -18,4 +18,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PablineSantos&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PablineSantos&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PablineSantos&theme=github_dark)
