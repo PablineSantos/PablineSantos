@@ -21,4 +21,4 @@
 
 ## 📈 Atividade no GitHub
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PablineSantos&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PablineSantos&theme=dark)
