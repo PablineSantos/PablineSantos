@@ -16,8 +16,8 @@
 ### 📊 Estatísticas
 <p align="center">
   <img height="200" width="420"
-       src="https://github-readme-stats.vercel.app/api?username=PablineSantos&show_icons=true&theme=graywhite&include_all_commits=true&locale=pt-br&hide_border=true" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=PablineSantos&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&hide_border=true" />
 
   <img height="200" width="420"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablineSantos&layout=compact&theme=graywhite&langs_count=9&hide_border=true" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PablineSantos&layout=compact&theme=transparent&langs_count=9&hide_border=true" />
 </p>
