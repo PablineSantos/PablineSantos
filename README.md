@@ -14,9 +14,7 @@
 <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 ### 📊 Estatísticas
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PablineSantos&theme=github_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PablineSantos&theme=github_dark)
+<p>
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PablineSantos&show_icons=true&theme=prussian&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=21600" />
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PablineSantos&theme=prussian&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&cache_seconds=21600" />
+</p>
