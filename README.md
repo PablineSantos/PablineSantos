@@ -16,18 +16,7 @@
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PablineSantos&show_icons=true&theme=prussian&include_all_commits=true&locale=pt-br&hide_border=true" 
-  />
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PablineSantos&show_icons=true&theme=prussian&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=21600" />
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PablineSantos&theme=prussian&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&cache_seconds=21600" />
+</p>/>
 
-  <img 
-    align="left" 
-    alt="Tecnologias" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablineSantos&theme=prussian&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
-  />
-</p>
